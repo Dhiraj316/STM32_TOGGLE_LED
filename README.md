@@ -53,3 +53,6 @@ Click Apply and Close, then rebuild the project to generate the file in your Deb
 Locate the BOOT0 pins or jumpers on your board.
 Set BOOT0 to HIGH (connect to 3.3V).
 Connect the board to your PC via USB and press the RESET button to enter DFU mode.
+
+
+###I uploaded the zip file of this project in case there is any issue. just extract the zip file and import in the stmcube IDE for the reference.

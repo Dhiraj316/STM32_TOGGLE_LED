@@ -1,4 +1,4 @@
-# LED_BLINKING STM32 Project
+# STM_TOGGLE_LED Project
 
 This repository contains a complete LED blinking application developed for the STM32F407VETx microcontroller[cite: 1]. The project demonstrates basic GPIO configuration and hardware abstraction layer (HAL) usage within the STM32CubeIDE ecosystem[cite: 1].
 
